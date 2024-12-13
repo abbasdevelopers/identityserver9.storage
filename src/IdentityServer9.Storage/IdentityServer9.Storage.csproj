@@ -4,9 +4,10 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<Company>MyCompany</Company>
-	<Authors>Author Name</Authors>
-	<AssemblyName>MyAssemblyName</AssemblyName>
+	<Company>Al-ain Softech</Company>
+	<Authors>Al-ain Softech</Authors>
+	<AssemblyName>IdentityServer9.Storage</AssemblyName>
+	  <RepositoryUrl>https://github.com/abbasdevelopers/identityserver9.storage</RepositoryUrl>
 	<Version>1.0.0</Version>
 	  <PackageId>IdentityServer9.Storage</PackageId>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
