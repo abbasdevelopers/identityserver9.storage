@@ -1,2 +1,2 @@
 # identityserver9.storage
-IdentityServer4.Storage upgrade to .net 9
+Upgraded the IdentityServer4 implementation to target the .NET 9 framework.
