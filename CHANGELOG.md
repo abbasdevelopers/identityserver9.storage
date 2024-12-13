@@ -1,2 +1,5 @@
-# 1.0.0
-- Upgraded the IdentityServer9.Storage to target .net core 9 framework
+# Feature: Upgrading IdentityServer9.Storage to .net 9
+- In this feature we upgraded the IdentityServer9.Storage on new .net core 9 framework
+
+# Fix: Add package meta
+- Add the required package meta data for nuget package
